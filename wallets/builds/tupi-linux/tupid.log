@@ -1,0 +1,171 @@
+2017-Dec-31 21:46:41.041382 INFO    [daemon] tupi v2.1.2.1251 ()
+2017-Dec-31 21:46:41.041645 INFO    [daemon] Module folder: ./tupid
+2017-Dec-31 21:46:41.041918 INFO    [RocksDBWrapper] Opening DB in /home/ubuntu/.tupi/DB
+2017-Dec-31 21:46:41.068599 INFO    [RocksDBWrapper] DB opened in /home/ubuntu/.tupi/DB
+2017-Dec-31 21:46:41.068885 INFO    [daemon] Initializing core...
+2017-Dec-31 21:46:41.070716 INFO    [daemon] Core initialized OK
+2017-Dec-31 21:46:41.070856 INFO    [daemon] Initializing p2p server...
+2017-Dec-31 21:46:42.177002 ERROR   [node_server] Failed to resolve host name 'tupiseeds.gq': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 21:46:42.354830 ERROR   [node_server] Failed to resolve host name 'tupiseeds.cf': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 21:46:42.532019 ERROR   [node_server] Failed to resolve host name 'tupiseeds.ml': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 21:46:42.709480 ERROR   [node_server] Failed to resolve host name 'tupiseeds.tk': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 21:46:42.709670 INFO    [node_server] Binding on 0.0.0.0:30967
+2017-Dec-31 21:46:42.709797 INFO    [node_server] Net service binded on 0.0.0.0:30967
+2017-Dec-31 21:46:42.709874 INFO    [node_server] Attempting to add IGD port mapping.
+2017-Dec-31 21:46:46.714604 INFO    [node_server] No IGD was found.
+2017-Dec-31 21:46:46.714735 INFO    [daemon] P2p server initialized OK
+2017-Dec-31 21:46:46.715686 INFO    [daemon] Starting core rpc server on address 127.0.0.1:30968
+2017-Dec-31 21:46:46.715837 INFO    [daemon] Core rpc server started ok
+2017-Dec-31 21:46:46.715938 INFO    [daemon] Starting p2p net loop...
+2017-Dec-31 21:46:46.716010 INFO    [node_server] Starting node_server
+2017-Dec-31 21:47:24.699666 INFO    [node_server] Stop signal sent
+2017-Dec-31 21:47:24.699872 INFO    [node_server] Stopping NodeServer and it's0 connections...
+2017-Dec-31 21:47:24.700065 INFO    [node_server] NodeServer loop stopped
+2017-Dec-31 21:47:24.700144 INFO    [daemon] p2p net loop stopped
+2017-Dec-31 21:47:24.700213 INFO    [daemon] Stopping core rpc server...
+2017-Dec-31 21:47:24.700319 INFO    [daemon] Deinitializing p2p...
+2017-Dec-31 21:47:24.700977 INFO    [RocksDBWrapper] Closing DB.
+2017-Dec-31 21:47:24.705780 INFO    [daemon] Node stopped.
+2017-Dec-31 22:03:24.493534 INFO    [daemon] tupi v2.1.2.1251 ()
+2017-Dec-31 22:03:24.493790 INFO    [daemon] Module folder: ./tupid
+2017-Dec-31 22:03:24.494131 INFO    [RocksDBWrapper] Opening DB in /home/ubuntu/.tupi/DB
+2017-Dec-31 22:03:24.495642 INFO    [RocksDBWrapper] DB not found in /home/ubuntu/.tupi/DB. Creating new DB...
+2017-Dec-31 22:03:24.524962 INFO    [daemon] Initializing core...
+2017-Dec-31 22:03:24.527106 INFO    [daemon] Core initialized OK
+2017-Dec-31 22:03:24.527242 INFO    [daemon] Initializing p2p server...
+2017-Dec-31 22:03:25.261212 ERROR   [node_server] Failed to resolve host name 'tupiseeds.gq': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 22:03:25.818650 ERROR   [node_server] Failed to resolve host name 'tupiseeds.cf': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 22:03:25.997012 ERROR   [node_server] Failed to resolve host name 'tupiseeds.ml': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 22:03:26.170938 ERROR   [node_server] Failed to resolve host name 'tupiseeds.tk': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 22:03:26.171127 INFO    [node_server] Generated new peer ID: 11844935848901265168
+2017-Dec-31 22:03:26.171219 INFO    [node_server] Binding on 0.0.0.0:30967
+2017-Dec-31 22:03:26.171383 INFO    [node_server] Net service binded on 0.0.0.0:30967
+2017-Dec-31 22:03:26.171469 INFO    [node_server] Attempting to add IGD port mapping.
+2017-Dec-31 22:03:30.176176 INFO    [node_server] No IGD was found.
+2017-Dec-31 22:03:30.176340 INFO    [daemon] P2p server initialized OK
+2017-Dec-31 22:03:30.176549 INFO    [daemon] Starting core rpc server on address 127.0.0.1:30968
+2017-Dec-31 22:03:30.176697 INFO    [daemon] Core rpc server started ok
+2017-Dec-31 22:03:30.176799 INFO    [daemon] Starting p2p net loop...
+2017-Dec-31 22:03:30.176874 INFO    [node_server] Starting node_server
+2017-Dec-31 22:03:30.179910 INFO    [protocol] 
+2017-Dec-31 22:03:30.179910 INFO    [protocol] **********************************************************************
+2017-Dec-31 22:03:30.179910 INFO    [protocol] You are now synchronized with the network. You may now start simplewallet.
+2017-Dec-31 22:03:30.179910 INFO    [protocol] 
+2017-Dec-31 22:03:30.179910 INFO    [protocol] Please note, that the blockchain will be saved only after you quit the daemon with "exit" command or if you use "save" command.
+2017-Dec-31 22:03:30.179910 INFO    [protocol] Otherwise, you will possibly need to synchronize the blockchain again.
+2017-Dec-31 22:03:30.179910 INFO    [protocol] 
+2017-Dec-31 22:03:30.179910 INFO    [protocol] Use "help" command to see the list of available commands.
+2017-Dec-31 22:03:30.179910 INFO    [protocol] **********************************************************************
+2017-Dec-31 22:03:30.181117 WARNING [node_server] [52.41.228.175:51853 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:03:34.187410 WARNING [node_server] [52.41.228.175:33944 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:03:38.193907 WARNING [node_server] [52.41.228.175:41734 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:03:54.219209 WARNING [node_server] [52.41.228.175:32817 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:03:56.222414 WARNING [node_server] [52.41.228.175:57389 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:04:06.238409 WARNING [node_server] [52.41.228.175:44287 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:04:08.241612 WARNING [node_server] [52.41.228.175:38361 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:04:10.466826 WARNING [node_server] [52.41.228.175:38107 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:04:14.666810 WARNING [node_server] [52.41.228.175:49941 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:04:16.792160 WARNING [node_server] [52.41.228.175:42418 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:04:18.849907 WARNING [node_server] [52.41.228.175:51198 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:04:23.047205 WARNING [node_server] [52.41.228.175:34271 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:04:25.203401 WARNING [node_server] [52.41.228.175:36555 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:04:29.462910 WARNING [node_server] [52.41.228.175:54561 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:04:31.603924 WARNING [node_server] [52.41.228.175:57313 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:04:33.841610 WARNING [node_server] [52.41.228.175:47414 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:04:35.969147 WARNING [node_server] [52.41.228.175:41363 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:04:38.049350 WARNING [node_server] [52.41.228.175:52145 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:04:40.234806 WARNING [node_server] [52.41.228.175:40029 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:04:44.458935 WARNING [node_server] [52.41.228.175:55693 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:04:48.695235 WARNING [node_server] [52.41.228.175:58064 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:04:50.866375 WARNING [node_server] [52.41.228.175:52765 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:04:53.053787 WARNING [node_server] [52.41.228.175:56784 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:04:55.234422 WARNING [node_server] [52.41.228.175:48274 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:04:59.479181 WARNING [node_server] [52.41.228.175:53758 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:05:01.609505 WARNING [node_server] [52.41.228.175:43160 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:05:03.787688 WARNING [node_server] [52.41.228.175:54961 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:05:05.974899 WARNING [node_server] [52.41.228.175:57841 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:05:09.147271 WARNING [node_server] [52.41.228.175:52930 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:05:11.211173 WARNING [node_server] [52.41.228.175:59276 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:05:13.388936 WARNING [node_server] [52.41.228.175:54805 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:05:15.628251 WARNING [node_server] [52.41.228.175:39420 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:05:19.861202 WARNING [node_server] [52.41.228.175:39686 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:05:24.142641 WARNING [node_server] [52.41.228.175:50776 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:05:26.311368 WARNING [node_server] [52.41.228.175:34816 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:05:28.428901 WARNING [node_server] [52.41.228.175:44269 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:05:30.634279 WARNING [node_server] [52.41.228.175:55403 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:05:34.933875 WARNING [node_server] [52.41.228.175:38003 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:05:38.125994 WARNING [node_server] [52.41.228.175:36226 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:05:42.329198 WARNING [node_server] [52.41.228.175:56472 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:05:44.529646 WARNING [node_server] [52.41.228.175:37131 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:05:48.823539 WARNING [node_server] [52.41.228.175:39141 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:05:51.002242 WARNING [node_server] [52.41.228.175:50744 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:05:54.196546 WARNING [node_server] [52.41.228.175:35851 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:05:56.319267 WARNING [node_server] [52.41.228.175:44729 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:06:00.657710 WARNING [node_server] [52.41.228.175:43820 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:06:04.942682 WARNING [node_server] [52.41.228.175:43894 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:06:07.069515 WARNING [node_server] [52.41.228.175:43227 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:06:09.354132 WARNING [node_server] [52.41.228.175:49592 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:06:15.686241 WARNING [node_server] [52.41.228.175:43302 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:06:19.973893 WARNING [node_server] [52.41.228.175:47850 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:06:22.114300 WARNING [node_server] [52.41.228.175:46963 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:06:24.194173 WARNING [node_server] [52.41.228.175:55882 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:06:26.433677 WARNING [node_server] [52.41.228.175:37793 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:06:28.561984 WARNING [node_server] [52.41.228.175:60589 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:06:37.067678 WARNING [node_server] [52.41.228.175:53614 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:06:47.515377 WARNING [node_server] [52.41.228.175:34164 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:06:53.815103 WARNING [node_server] [52.41.228.175:51087 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:06:56.043141 WARNING [node_server] [52.41.228.175:37133 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:06:58.229679 WARNING [node_server] [52.41.228.175:59675 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:07:02.507949 WARNING [node_server] [52.41.228.175:47856 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:07:08.900952 WARNING [node_server] [52.41.228.175:47598 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:07:11.103619 WARNING [node_server] [52.41.228.175:57346 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:07:13.291410 WARNING [node_server] [52.41.228.175:45695 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:07:21.621712 WARNING [node_server] [52.41.228.175:38045 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:07:27.954925 WARNING [node_server] [52.41.228.175:57646 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:07:29.020026 WARNING [node_server] [52.41.228.175:57064 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:07:33.222425 WARNING [node_server] [52.41.228.175:51062 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:07:35.338914 WARNING [node_server] [52.41.228.175:51358 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:07:39.606313 WARNING [node_server] [52.41.228.175:34941 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:07:45.975119 WARNING [node_server] [52.41.228.175:50772 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:07:49.191878 WARNING [node_server] [52.41.228.175:46511 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:07:55.531941 WARNING [node_server] [52.41.228.175:43765 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:07:57.751157 WARNING [node_server] [52.41.228.175:57156 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:08:04.098512 WARNING [node_server] [52.41.228.175:44898 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:08:06.322220 WARNING [node_server] [52.41.228.175:57524 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:08:12.636258 WARNING [node_server] [52.41.228.175:52637 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:08:21.159613 WARNING [node_server] [52.41.228.175:45907 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:08:25.474469 WARNING [node_server] [52.41.228.175:49790 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:08:27.581861 WARNING [node_server] [52.41.228.175:33113 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:08:29.753480 WARNING [node_server] [52.41.228.175:42430 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:08:38.087830 WARNING [node_server] [52.41.228.175:42132 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:08:47.493652 WARNING [node_server] [52.41.228.175:37434 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:08:55.937355 WARNING [node_server] [52.41.228.175:33221 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:08:58.047561 WARNING [node_server] [52.41.228.175:39553 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:09:00.270864 WARNING [node_server] [52.41.228.175:54038 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:09:04.570063 WARNING [node_server] [52.41.228.175:41184 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:09:08.745007 WARNING [node_server] [52.41.228.175:40072 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:09:15.122345 WARNING [node_server] [52.41.228.175:52588 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:09:19.385518 WARNING [node_server] [52.41.228.175:45929 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:09:37.120414 WARNING [node_server] [52.41.228.175:35052 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:09:45.442305 WARNING [node_server] [52.41.228.175:44059 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:10:02.192502 WARNING [node_server] [52.41.228.175:59395 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:10:04.405010 WARNING [node_server] [52.41.228.175:46246 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:10:12.747198 WARNING [node_server] [52.41.228.175:42522 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:10:14.945981 WARNING [node_server] [52.41.228.175:51797 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:10:24.385795 WARNING [node_server] [52.41.228.175:40459 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:10:32.754808 WARNING [node_server] [52.41.228.175:50563 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:10:34.942462 WARNING [node_server] [52.41.228.175:55639 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:10:37.143372 WARNING [node_server] [52.41.228.175:50008 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:10:39.310924 WARNING [node_server] [52.41.228.175:34772 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:10:41.529565 WARNING [node_server] [52.41.228.175:52136 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:10:43.714606 WARNING [node_server] [52.41.228.175:55350 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:10:45.944179 WARNING [node_server] [52.41.228.175:45019 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:10:48.009770 WARNING [node_server] [52.41.228.175:60167 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:10:50.100241 WARNING [node_server] [52.41.228.175:44567 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:10:52.197030 WARNING [node_server] [52.41.228.175:52897 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:11:00.602850 WARNING [node_server] [52.41.228.175:35758 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:11:02.807232 WARNING [node_server] [52.41.228.175:48982 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:11:05.038156 WARNING [node_server] [52.41.228.175:47447 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:11:11.354865 WARNING [node_server] [52.41.228.175:46728 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:11:13.589448 WARNING [node_server] [52.41.228.175:36030 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 22:11:15.826077 WARNING [node_server] [52.41.228.175:55936 INC] Exception in connectionHandler: TcpConnection::read

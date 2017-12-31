@@ -1,0 +1,65 @@
+2017-Dec-31 11:40:15.327697 INFO    [simplewallet] tupi wallet v2.1.2.1251 ()
+2017-Dec-31 11:40:26.565834 INFO    [simplewallet] Loading wallet...
+2017-Dec-31 11:40:26.619881 INFO    [simplewallet] Opened wallet: f8G8G95fKd5CLSiSjX3wEXBh65Jk9begVSRNJCrxixDzCubPzWRdsU66napEKogN7V2dkMQ5EmyAnV13TdVXP5u3fQ6ZaxSHgbv
+2017-Dec-31 11:40:26.620064 INFO    [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2017-Dec-31 11:43:58.925232 INFO    [simplewallet] available balance: 0.00000000, locked amount: 0.00000000
+2017-Dec-31 11:45:29.109427 INFO    [simplewallet] Wallet closed
+2017-Dec-31 11:45:35.458418 INFO    [simplewallet] tupi wallet v2.1.2.1251 ()
+2017-Dec-31 11:45:44.775449 INFO    [simplewallet] Loading wallet...
+2017-Dec-31 11:45:44.826025 INFO    [simplewallet] Opened wallet: f8G8G95fKd5CLSiSjX3wEXBh65Jk9begVSRNJCrxixDzCubPzWRdsU66napEKogN7V2dkMQ5EmyAnV13TdVXP5u3fQ6ZaxSHgbv
+2017-Dec-31 11:45:44.826291 INFO    [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2017-Dec-31 11:52:48.555435 INFO    [simplewallet] available balance: 0.00000000, locked amount: 0.00000000
+2017-Dec-31 11:54:00.828414 INFO    [simplewallet] available balance: 0.00000000, locked amount: 0.00000000
+2017-Dec-31 11:56:01.172429 INFO    [simplewallet] available balance: 0.00000000, locked amount: 0.00000000
+2017-Dec-31 11:56:09.941076 INFO    [simplewallet] Wallet closed
+2017-Dec-31 11:56:14.538230 INFO    [simplewallet] tupi wallet v2.1.2.1251 ()
+2017-Dec-31 11:56:22.909213 INFO    [simplewallet] Loading wallet...
+2017-Dec-31 11:56:22.965643 INFO    [simplewallet] Opened wallet: f8G8G95fKd5CLSiSjX3wEXBh65Jk9begVSRNJCrxixDzCubPzWRdsU66napEKogN7V2dkMQ5EmyAnV13TdVXP5u3fQ6ZaxSHgbv
+2017-Dec-31 11:56:22.965889 INFO    [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2017-Dec-31 12:07:38.590214 ERROR   [simplewallet] Error: wallet failed to connect to daemon (http://localhost:30806).
+2017-Dec-31 12:07:52.867862 INFO    [simplewallet] Wallet connected to daemon.
+2017-Dec-31 12:08:00.505991 INFO    [simplewallet] available balance: 0.00000000, locked amount: 0.00000000
+2017-Dec-31 12:08:14.238118 INFO    [simplewallet] Commands: 
+  address              Show current wallet public address
+  balance              Show current wallet balance
+  bc_height            Show blockchain height
+  exit                 Close wallet
+  help                 Show this help
+  incoming_transfers   Show incoming transfers
+  list_transfers       Show all known transfers
+  payments             payments <payment_id_1> [<payment_id_2> ... <payment_id_N>] - Show payments <payment_id_1>, ... <payment_id_N>
+  reset                Discard cache data and start synchronizing from the start
+  save                 Save wallet synchronized data
+  set_log              set_log <level> - Change current log level, <level> is a number 0-4
+  start_mining         start_mining [<number_of_threads>] - Start mining in daemon
+  stop_mining          Stop mining in daemon
+  transfer             transfer <mixin_count> <addr_1> <amount_1> [<addr_2> <amount_2> ... <addr_N> <amount_N>] [-p payment_id] [-f fee] - Transfer <amount_1>,... <amount_N> to <address_1>,... <address_N>, respectively. <mixin_count> is the number of transactions yours is indistinguishable from (from 0 to maximum available)
+  
+
+2017-Dec-31 12:08:19.564441 INFO    [simplewallet] f8G8G95fKd5CLSiSjX3wEXBh65Jk9begVSRNJCrxixDzCubPzWRdsU66napEKogN7V2dkMQ5EmyAnV13TdVXP5u3fQ6ZaxSHgbv
+2017-Dec-31 12:08:38.468564 ERROR   [simplewallet] Error: Failed to invoke rpc method: HTTP status: 1
+2017-Dec-31 12:08:58.169126 INFO    [simplewallet] Wallet closed
+2017-Dec-31 12:09:29.718148 INFO    [simplewallet] tupi wallet v2.1.2.1251 ()
+2017-Dec-31 12:09:39.359530 INFO    [simplewallet] Loading wallet...
+2017-Dec-31 12:09:39.414534 INFO    [simplewallet] Opened wallet: f8G8G95fKd5CLSiSjX3wEXBh65Jk9begVSRNJCrxixDzCubPzWRdsU66napEKogN7V2dkMQ5EmyAnV13TdVXP5u3fQ6ZaxSHgbv
+2017-Dec-31 12:09:39.414797 INFO    [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2017-Dec-31 12:27:57.244177 INFO    [simplewallet] tupi wallet v2.1.2.1251 ()
+2017-Dec-31 12:27:57.276726 ERROR   [simplewallet] Error: wallet failed to connect to daemon (http://localhost:30806).
+2017-Dec-31 12:27:57.321179 INFO    [simplewallet] Generated new wallet: f8G8G9JYSaaSjMzr4AWzQXLrrAHRdAgJM1VTFH9NpHNPfPJyheLD4zvG4Urm6TTnx6VFtBLNaGebv5tFo3nEavoZcwzvRFgHRmj
+2017-Dec-31 12:27:57.321179 INFO    [simplewallet] view key: 214228e3f1e5741f392e4c6a87d791cb2351755d181431a59d68b0d6f40e680c
+2017-Dec-31 12:27:57.321410 INFO    [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2017-Dec-31 12:34:07.194512 INFO    [simplewallet] Wallet closed

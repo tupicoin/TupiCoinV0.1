@@ -1,0 +1,710 @@
+2017-Dec-31 13:17:29.286816 INFO    [daemon] tupi v2.1.2.1251 ()
+2017-Dec-31 13:17:29.287076 INFO    [daemon] Module folder: ./tupid
+2017-Dec-31 13:17:29.287381 INFO    [RocksDBWrapper] Opening DB in /home/ubuntu/.tupi/DB
+2017-Dec-31 13:17:29.288613 INFO    [RocksDBWrapper] DB not found in /home/ubuntu/.tupi/DB. Creating new DB...
+2017-Dec-31 13:17:29.323497 INFO    [daemon] Initializing core...
+2017-Dec-31 13:17:29.383636 INFO    [daemon] Core initialized OK
+2017-Dec-31 13:17:29.383785 INFO    [daemon] Initializing p2p server...
+2017-Dec-31 13:17:30.846465 ERROR   [node_server] Failed to resolve host name 'tupiseeds.tk': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 13:17:31.024383 ERROR   [node_server] Failed to resolve host name 'tupiseeds.ml': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 13:17:31.204295 ERROR   [node_server] Failed to resolve host name 'tupiseeds.cf': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 13:17:31.749314 ERROR   [node_server] Failed to resolve host name 'tupiseeds.gq': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 13:17:31.749508 INFO    [node_server] Generated new peer ID: 10148813957708718560
+2017-Dec-31 13:17:31.749604 INFO    [node_server] Binding on 0.0.0.0:30805
+2017-Dec-31 13:17:31.749776 INFO    [node_server] Net service binded on 0.0.0.0:30805
+2017-Dec-31 13:17:31.749884 INFO    [node_server] Attempting to add IGD port mapping.
+2017-Dec-31 13:17:35.754606 INFO    [node_server] No IGD was found.
+2017-Dec-31 13:17:35.754760 INFO    [daemon] P2p server initialized OK
+2017-Dec-31 13:17:35.755757 INFO    [daemon] Starting core rpc server on address 127.0.0.1:30806
+2017-Dec-31 13:17:35.755913 INFO    [daemon] Core rpc server started ok
+2017-Dec-31 13:17:35.756043 INFO    [daemon] Starting p2p net loop...
+2017-Dec-31 13:17:35.756143 INFO    [node_server] Starting node_server
+2017-Dec-31 13:17:35.759141 INFO    [protocol] 
+2017-Dec-31 13:17:35.759141 INFO    [protocol] **********************************************************************
+2017-Dec-31 13:17:35.759141 INFO    [protocol] You are now synchronized with the network. You may now start simplewallet.
+2017-Dec-31 13:17:35.759141 INFO    [protocol] 
+2017-Dec-31 13:17:35.759141 INFO    [protocol] Please note, that the blockchain will be saved only after you quit the daemon with "exit" command or if you use "save" command.
+2017-Dec-31 13:17:35.759141 INFO    [protocol] Otherwise, you will possibly need to synchronize the blockchain again.
+2017-Dec-31 13:17:35.759141 INFO    [protocol] 
+2017-Dec-31 13:17:35.759141 INFO    [protocol] Use "help" command to see the list of available commands.
+2017-Dec-31 13:17:35.759141 INFO    [protocol] **********************************************************************
+2017-Dec-31 13:17:35.760488 WARNING [node_server] [52.41.228.175:44857 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:17:37.996764 WARNING [node_server] [52.41.228.175:59008 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:17:39.162482 WARNING [node_server] [52.41.228.175:57287 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:17:43.432436 WARNING [node_server] [52.41.228.175:39207 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:17:47.657223 WARNING [node_server] [52.41.228.175:49350 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:17:49.824426 WARNING [node_server] [52.41.228.175:50116 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:17:52.060858 WARNING [node_server] [52.41.228.175:50925 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:17:58.654749 WARNING [node_server] [52.41.228.175:37887 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:18:02.874255 WARNING [node_server] [52.41.228.175:40321 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:18:05.064936 WARNING [node_server] [52.41.228.175:35312 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:18:07.244527 WARNING [node_server] [52.41.228.175:48707 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:18:11.417660 WARNING [node_server] [52.41.228.175:36763 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:18:13.574984 WARNING [node_server] [52.41.228.175:58361 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:18:17.713787 WARNING [node_server] [52.41.228.175:34710 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:18:24.002051 WARNING [node_server] [52.41.228.175:47788 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:18:25.053956 WARNING [node_server] [52.41.228.175:38418 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:18:27.238945 WARNING [node_server] [52.41.228.175:42386 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:18:33.546414 WARNING [node_server] [52.41.228.175:59237 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:18:39.803663 WARNING [node_server] [52.41.228.175:33671 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:18:41.994551 WARNING [node_server] [52.41.228.175:33043 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:18:43.022354 WARNING [node_server] [52.41.228.175:32791 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:18:51.368083 WARNING [node_server] [52.41.228.175:50561 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:18:53.519073 WARNING [node_server] [52.41.228.175:46834 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:18:55.578281 WARNING [node_server] [52.41.228.175:57364 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:18:57.721858 WARNING [node_server] [52.41.228.175:54728 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:18:59.899218 WARNING [node_server] [52.41.228.175:60353 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:19:02.045477 WARNING [node_server] [52.41.228.175:35576 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:19:04.199583 WARNING [node_server] [52.41.228.175:54723 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:19:08.372097 WARNING [node_server] [52.41.228.175:35095 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:19:10.260334 INFO    [node_server] Stop signal sent
+2017-Dec-31 13:19:10.318443 INFO    [node_server] Stopping NodeServer and it's0 connections...
+2017-Dec-31 13:19:10.318603 INFO    [node_server] NodeServer loop stopped
+2017-Dec-31 13:19:10.318661 INFO    [daemon] p2p net loop stopped
+2017-Dec-31 13:19:10.318711 INFO    [daemon] Stopping core rpc server...
+2017-Dec-31 13:19:10.318866 INFO    [daemon] Deinitializing p2p...
+2017-Dec-31 13:19:10.319327 INFO    [RocksDBWrapper] Closing DB.
+2017-Dec-31 13:19:10.369601 INFO    [daemon] Node stopped.
+2017-Dec-31 13:19:55.336383 INFO    [daemon] tupi v2.1.2.1251 ()
+2017-Dec-31 13:19:55.336645 INFO    [daemon] Module folder: ./tupid
+2017-Dec-31 13:19:55.336876 INFO    [RocksDBWrapper] Opening DB in /home/ubuntu/.tupi/DB
+2017-Dec-31 13:19:55.363431 INFO    [RocksDBWrapper] DB opened in /home/ubuntu/.tupi/DB
+2017-Dec-31 13:19:55.363780 INFO    [daemon] Initializing core...
+2017-Dec-31 13:19:55.420374 INFO    [daemon] Core initialized OK
+2017-Dec-31 13:19:55.420529 INFO    [daemon] Initializing p2p server...
+2017-Dec-31 13:19:55.764391 ERROR   [node_server] Failed to resolve host name 'tupiseeds.tk': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 13:19:56.698925 ERROR   [node_server] Failed to resolve host name 'tupiseeds.ml': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 13:19:57.027462 ERROR   [node_server] Failed to resolve host name 'tupiseeds.cf': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 13:19:57.205469 ERROR   [node_server] Failed to resolve host name 'tupiseeds.gq': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 13:19:57.205694 INFO    [node_server] Binding on 0.0.0.0:30805
+2017-Dec-31 13:19:57.205860 INFO    [node_server] Net service binded on 0.0.0.0:30805
+2017-Dec-31 13:19:57.205951 INFO    [node_server] Attempting to add IGD port mapping.
+2017-Dec-31 13:20:01.210661 INFO    [node_server] No IGD was found.
+2017-Dec-31 13:20:01.210802 INFO    [daemon] P2p server initialized OK
+2017-Dec-31 13:20:01.211023 INFO    [daemon] Starting core rpc server on address 127.0.0.1:30806
+2017-Dec-31 13:20:01.211174 INFO    [daemon] Core rpc server started ok
+2017-Dec-31 13:20:01.211303 INFO    [daemon] Starting p2p net loop...
+2017-Dec-31 13:20:01.211401 INFO    [node_server] Starting node_server
+2017-Dec-31 13:20:01.214405 INFO    [protocol] 
+2017-Dec-31 13:20:01.214405 INFO    [protocol] **********************************************************************
+2017-Dec-31 13:20:01.214405 INFO    [protocol] You are now synchronized with the network. You may now start simplewallet.
+2017-Dec-31 13:20:01.214405 INFO    [protocol] 
+2017-Dec-31 13:20:01.214405 INFO    [protocol] Please note, that the blockchain will be saved only after you quit the daemon with "exit" command or if you use "save" command.
+2017-Dec-31 13:20:01.214405 INFO    [protocol] Otherwise, you will possibly need to synchronize the blockchain again.
+2017-Dec-31 13:20:01.214405 INFO    [protocol] 
+2017-Dec-31 13:20:01.214405 INFO    [protocol] Use "help" command to see the list of available commands.
+2017-Dec-31 13:20:01.214405 INFO    [protocol] **********************************************************************
+2017-Dec-31 13:20:25.254360 WARNING [node_server] [52.41.228.175:49420 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:20:31.264129 WARNING [node_server] [52.41.228.175:45662 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:20:37.273692 WARNING [node_server] [52.41.228.175:37093 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:20:41.280349 WARNING [node_server] [52.41.228.175:48071 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:20:49.293439 WARNING [node_server] [52.41.228.175:44670 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:21:13.332036 WARNING [node_server] [52.41.228.175:33441 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:21:17.338491 WARNING [node_server] [52.41.228.175:44476 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:21:19.341668 WARNING [node_server] [52.41.228.175:40379 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:21:33.363824 WARNING [node_server] [52.41.228.175:58990 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:21:35.366889 WARNING [node_server] [52.41.228.175:46195 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:21:37.370146 WARNING [node_server] [52.41.228.175:39956 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:21:47.386129 WARNING [node_server] [52.41.228.175:51194 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:21:51.392411 WARNING [node_server] [52.41.228.175:50895 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:21:57.401732 WARNING [node_server] [52.41.228.175:50829 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:22:03.411851 WARNING [node_server] [52.41.228.175:58906 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:22:13.427932 WARNING [node_server] [52.41.228.175:37156 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:22:21.440857 WARNING [node_server] [52.41.228.175:43834 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:22:25.447282 WARNING [node_server] [52.41.228.175:46977 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:22:41.472492 WARNING [node_server] [52.41.228.175:60957 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:22:43.475758 WARNING [node_server] [52.41.228.175:37902 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:22:53.490552 WARNING [node_server] [52.41.228.175:48381 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:23:09.516026 WARNING [node_server] [52.41.228.175:43189 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:23:15.525565 WARNING [node_server] [52.41.228.175:60925 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:23:19.531796 WARNING [node_server] [52.41.228.175:49490 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:23:25.541545 WARNING [node_server] [52.41.228.175:49938 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:23:41.566224 WARNING [node_server] [52.41.228.175:48198 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:23:49.578936 WARNING [node_server] [52.41.228.175:37374 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:24:01.597693 WARNING [node_server] [52.41.228.175:42174 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:24:09.610313 WARNING [node_server] [52.41.228.175:44698 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:24:19.626285 WARNING [node_server] [52.41.228.175:60693 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:24:25.635965 WARNING [node_server] [52.41.228.175:48618 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:24:29.642331 WARNING [node_server] [52.41.228.175:42813 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:24:31.645658 WARNING [node_server] [52.41.228.175:47934 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:24:37.655018 WARNING [node_server] [52.41.228.175:56675 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:24:41.661376 WARNING [node_server] [52.41.228.175:57118 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:24:43.664585 WARNING [node_server] [52.41.228.175:46775 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:24:49.674133 WARNING [node_server] [52.41.228.175:42410 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:24:51.677293 WARNING [node_server] [52.41.228.175:38683 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:24:55.683551 WARNING [node_server] [52.41.228.175:45166 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:24:59.689806 WARNING [node_server] [52.41.228.175:55111 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:25:19.721193 WARNING [node_server] [52.41.228.175:60415 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:25:21.724313 WARNING [node_server] [52.41.228.175:58839 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:25:27.733565 WARNING [node_server] [52.41.228.175:55802 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:25:33.743378 WARNING [node_server] [52.41.228.175:55666 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:25:43.758880 WARNING [node_server] [52.41.228.175:53260 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:25:59.784021 WARNING [node_server] [52.41.228.175:57069 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:26:03.790168 WARNING [node_server] [52.41.228.175:58793 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:26:09.799936 WARNING [node_server] [52.41.228.175:43366 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:26:13.806303 WARNING [node_server] [52.41.228.175:46212 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:26:19.816028 WARNING [node_server] [52.41.228.175:36236 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:26:35.840971 WARNING [node_server] [52.41.228.175:54043 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:26:37.844214 WARNING [node_server] [52.41.228.175:38120 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:26:53.869272 WARNING [node_server] [52.41.228.175:59105 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:26:55.872555 WARNING [node_server] [52.41.228.175:59306 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:27:13.900526 WARNING [node_server] [52.41.228.175:56990 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:27:17.906464 WARNING [node_server] [52.41.228.175:49967 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:27:19.909651 WARNING [node_server] [52.41.228.175:49408 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:27:21.912931 WARNING [node_server] [52.41.228.175:43501 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:27:27.922716 WARNING [node_server] [52.41.228.175:35375 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:27:37.938437 WARNING [node_server] [52.41.228.175:46917 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:27:49.957196 WARNING [node_server] [52.41.228.175:43227 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:27:51.960423 WARNING [node_server] [52.41.228.175:47623 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:27:53.963568 WARNING [node_server] [52.41.228.175:54732 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:27:59.972873 WARNING [node_server] [52.41.228.175:46858 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:28:01.976139 WARNING [node_server] [52.41.228.175:53111 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:28:09.989605 WARNING [node_server] [52.41.228.175:38829 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:28:25.014761 WARNING [node_server] [52.41.228.175:35874 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:28:39.036863 WARNING [node_server] [52.41.228.175:51179 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:28:47.049450 WARNING [node_server] [52.41.228.175:45628 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:28:59.068053 WARNING [node_server] [52.41.228.175:51476 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:29:03.074349 WARNING [node_server] [52.41.228.175:51052 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:29:09.084085 WARNING [node_server] [52.41.228.175:49684 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:29:27.112172 WARNING [node_server] [52.41.228.175:58210 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:29:31.118407 WARNING [node_server] [52.41.228.175:41990 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:29:45.140660 WARNING [node_server] [52.41.228.175:53892 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:29:47.143940 WARNING [node_server] [52.41.228.175:52931 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:29:53.153518 WARNING [node_server] [52.41.228.175:51945 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:29:55.156817 WARNING [node_server] [52.41.228.175:58888 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:30:01.166055 WARNING [node_server] [52.41.228.175:45243 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:30:11.181837 WARNING [node_server] [52.41.228.175:56126 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:30:15.188763 WARNING [node_server] [52.41.228.175:33364 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:30:21.198291 WARNING [node_server] [52.41.228.175:60596 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:30:23.201317 WARNING [node_server] [52.41.228.175:56451 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:30:27.207882 WARNING [node_server] [52.41.228.175:47130 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:30:29.210994 WARNING [node_server] [52.41.228.175:58110 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:30:33.217363 WARNING [node_server] [52.41.228.175:39019 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:30:35.220886 WARNING [node_server] [52.41.228.175:47611 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:30:45.236536 WARNING [node_server] [52.41.228.175:57699 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:30:55.252049 WARNING [node_server] [52.41.228.175:46966 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:30:57.255064 WARNING [node_server] [52.41.228.175:38232 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:31:05.268079 WARNING [node_server] [52.41.228.175:33800 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:31:13.280826 WARNING [node_server] [52.41.228.175:51480 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:31:15.284122 WARNING [node_server] [52.41.228.175:46018 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:31:19.290640 WARNING [node_server] [52.41.228.175:43867 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:31:21.293930 WARNING [node_server] [52.41.228.175:59577 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:31:43.329037 WARNING [node_server] [52.41.228.175:38304 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:31:45.332518 WARNING [node_server] [52.41.228.175:35141 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:31:47.335717 WARNING [node_server] [52.41.228.175:38900 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:31:55.348685 WARNING [node_server] [52.41.228.175:32946 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:32:01.358457 WARNING [node_server] [52.41.228.175:51247 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:32:11.374575 WARNING [node_server] [52.41.228.175:59622 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:32:17.384654 WARNING [node_server] [52.41.228.175:49268 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:32:19.388118 WARNING [node_server] [52.41.228.175:59337 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:32:23.394569 WARNING [node_server] [52.41.228.175:60667 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:32:25.398027 WARNING [node_server] [52.41.228.175:44416 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:32:29.404395 WARNING [node_server] [52.41.228.175:49732 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:32:41.423142 WARNING [node_server] [52.41.228.175:47327 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:32:53.441791 WARNING [node_server] [52.41.228.175:43307 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:32:55.445101 WARNING [node_server] [52.41.228.175:47189 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:32:59.831804 INFO    [protocol] [34.216.164.28:36113 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:32:59.831804 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:01.455965 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:01.455965 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:01.456378 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:33:01.837390 INFO    [protocol] [34.216.164.28:45772 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:01.837390 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:03.460803 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:03.460803 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:03.461234 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:33:03.841923 INFO    [protocol] [34.216.164.28:33016 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:03.841923 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:05.465511 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:05.465511 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:05.465950 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:33:05.846193 INFO    [protocol] [34.216.164.28:56533 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:05.846193 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:07.469976 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:07.469976 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:07.470414 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:33:07.850604 INFO    [protocol] [34.216.164.28:57223 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:07.850604 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:09.474464 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:09.474464 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:09.474878 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:33:09.854791 INFO    [protocol] [34.216.164.28:42559 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:09.854791 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:11.478949 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:11.478949 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:11.479364 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:33:11.859186 INFO    [protocol] [34.216.164.28:37783 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:11.859186 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:13.483344 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:13.483344 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:13.483833 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:33:13.863399 INFO    [protocol] [34.216.164.28:55444 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:13.863399 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:15.487868 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:15.487868 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:15.488303 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:33:15.867771 INFO    [protocol] [34.216.164.28:40808 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:15.867771 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:17.492501 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:17.492501 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:17.492931 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:33:17.871851 INFO    [protocol] [34.216.164.28:38086 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:17.871851 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:19.497335 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:19.497335 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:19.497728 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:33:19.876108 INFO    [protocol] [34.216.164.28:53542 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:19.876108 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:21.502010 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:21.502010 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:21.502444 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:33:21.880420 INFO    [protocol] [34.216.164.28:40623 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:21.880420 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:23.506882 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:23.506882 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:23.507351 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:33:23.884679 INFO    [protocol] [34.216.164.28:53895 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:23.884679 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:25.511703 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:25.511703 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:25.512107 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:33:25.888863 INFO    [protocol] [34.216.164.28:59400 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:25.888863 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:27.516243 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:27.516243 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:27.516656 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:33:27.893035 INFO    [protocol] [34.216.164.28:49467 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:27.893035 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:29.520844 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:29.520844 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:29.521286 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:33:29.897102 INFO    [protocol] [34.216.164.28:54198 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:29.897102 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:31.525376 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:31.525376 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:31.525770 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:33:31.903228 INFO    [protocol] [34.216.164.28:33517 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:31.903228 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:33.529984 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:33.529984 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:33.530427 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:33:33.907422 INFO    [protocol] [34.216.164.28:45967 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:33.907422 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:35.534777 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:35.534777 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:35.535196 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:33:35.911732 INFO    [protocol] [34.216.164.28:46812 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:35.911732 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:37.539259 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:37.539259 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:37.539727 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:33:37.916089 INFO    [protocol] [34.216.164.28:44056 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:37.916089 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:39.544210 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:39.544210 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:39.544662 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:33:39.920334 INFO    [protocol] [34.216.164.28:51105 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:39.920334 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:41.548595 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:41.548595 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:41.548987 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:33:41.924565 INFO    [protocol] [34.216.164.28:40865 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:41.924565 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:43.553175 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:43.553175 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:43.553608 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:33:43.928692 INFO    [protocol] [34.216.164.28:34040 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:43.928692 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:45.557773 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:45.557773 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:45.558207 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:33:45.932907 INFO    [protocol] [34.216.164.28:46134 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:45.932907 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:47.562386 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:47.562386 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:47.562823 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:33:47.937026 INFO    [protocol] [34.216.164.28:52086 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:47.937026 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:49.567069 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:49.567069 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:49.567479 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:33:49.941441 INFO    [protocol] [34.216.164.28:36936 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:49.941441 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:51.571747 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:51.571747 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:51.572128 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:33:51.945937 INFO    [protocol] [34.216.164.28:54117 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:51.945937 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:53.576545 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:53.576545 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:53.576933 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:33:53.950118 INFO    [protocol] [34.216.164.28:33081 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:53.950118 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:55.581073 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:55.581073 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:55.581473 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:33:55.954349 INFO    [protocol] [34.216.164.28:37480 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:55.954349 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:57.585766 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:57.585766 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:57.586200 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:33:57.958691 INFO    [protocol] [34.216.164.28:41944 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:57.958691 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:59.590519 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:59.590519 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:33:59.590931 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:33:59.962890 INFO    [protocol] [34.216.164.28:36625 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:33:59.962890 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:01.595314 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:34:01.595314 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:01.595858 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:34:01.969148 INFO    [protocol] [34.216.164.28:56266 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:34:01.969148 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:03.600175 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:34:03.600175 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:03.600604 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:34:03.973469 INFO    [protocol] [34.216.164.28:47441 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:34:03.973469 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:05.604958 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:34:05.604958 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:05.605397 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:34:05.978060 INFO    [protocol] [34.216.164.28:57911 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:34:05.978060 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:07.609605 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:34:07.609605 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:07.610004 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:34:07.982118 INFO    [protocol] [34.216.164.28:43697 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:34:07.982118 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:09.614241 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:34:09.614241 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:09.614666 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:34:09.986237 INFO    [protocol] [34.216.164.28:56038 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:34:09.986237 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:11.618970 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:34:11.618970 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:11.619414 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:34:11.990558 INFO    [protocol] [34.216.164.28:33358 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:34:11.990558 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:13.623560 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:34:13.623560 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:13.624012 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:34:13.994762 INFO    [protocol] [34.216.164.28:56635 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:34:13.994762 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:15.628438 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:34:15.628438 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:15.628851 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:34:15.998915 INFO    [protocol] [34.216.164.28:34470 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:34:15.998915 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:17.633151 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:34:17.633151 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:17.633582 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:34:18.003150 INFO    [protocol] [34.216.164.28:49774 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:34:18.003150 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:19.637645 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:34:19.637645 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:19.638071 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:34:20.007451 INFO    [protocol] [34.216.164.28:41034 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:34:20.007451 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:21.642205 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:34:21.642205 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:21.642609 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:34:22.011916 INFO    [protocol] [34.216.164.28:55288 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:34:22.011916 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:23.646903 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:34:23.646903 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:23.647345 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:34:24.016330 INFO    [protocol] [34.216.164.28:50532 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:34:24.016330 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:25.651580 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:34:25.651580 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:25.651977 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:34:26.020591 INFO    [protocol] [34.216.164.28:58502 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:34:26.020591 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:27.656049 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:34:27.656049 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:27.656474 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:34:28.025012 INFO    [protocol] [34.216.164.28:58623 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:34:28.025012 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:29.660589 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:34:29.660589 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:29.660986 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:34:30.029299 INFO    [protocol] [34.216.164.28:58173 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:34:30.029299 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:31.665136 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:34:31.665136 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:31.665574 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:34:32.033653 INFO    [protocol] [34.216.164.28:55834 INC] Sync data returned unknown top block: 1 -> 6 [5 blocks (0 days) behind] 
+2017-Dec-31 13:34:32.033653 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:33.809989 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 4 -> 6 [2 blocks (0 days) behind] 
+2017-Dec-31 13:34:33.809989 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:33.810405 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:34:34.134128 INFO    [protocol] [34.216.164.28:49719 INC] Sync data returned unknown top block: 4 -> 6 [2 blocks (0 days) behind] 
+2017-Dec-31 13:34:34.134128 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:36.302151 INFO    [protocol] [34.216.164.28:41013 INC] Sync data returned unknown top block: 5 -> 6 [1 blocks (0 days) behind] 
+2017-Dec-31 13:34:36.302151 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:36.305975 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 5 -> 6 [1 blocks (0 days) behind] 
+2017-Dec-31 13:34:36.305975 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:36.306384 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:34:38.306601 INFO    [protocol] [34.216.164.28:56476 INC] Sync data returned unknown top block: 5 -> 6 [1 blocks (0 days) behind] 
+2017-Dec-31 13:34:38.306601 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:38.310190 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 5 -> 6 [1 blocks (0 days) behind] 
+2017-Dec-31 13:34:38.310190 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:38.310700 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:34:40.312765 INFO    [protocol] [34.216.164.28:59792 INC] Sync data returned unknown top block: 5 -> 6 [1 blocks (0 days) behind] 
+2017-Dec-31 13:34:40.312765 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:40.315259 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 5 -> 6 [1 blocks (0 days) behind] 
+2017-Dec-31 13:34:40.315259 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:40.316005 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:34:42.317953 INFO    [protocol] [34.216.164.28:40071 INC] Sync data returned unknown top block: 5 -> 6 [1 blocks (0 days) behind] 
+2017-Dec-31 13:34:42.317953 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:42.320246 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 5 -> 6 [1 blocks (0 days) behind] 
+2017-Dec-31 13:34:42.320246 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:42.320801 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:34:44.322904 INFO    [protocol] [34.216.164.28:44543 INC] Sync data returned unknown top block: 5 -> 6 [1 blocks (0 days) behind] 
+2017-Dec-31 13:34:44.322904 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:44.325384 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 5 -> 6 [1 blocks (0 days) behind] 
+2017-Dec-31 13:34:44.325384 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:44.325879 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:34:46.328069 INFO    [protocol] [34.216.164.28:34852 INC] Sync data returned unknown top block: 5 -> 6 [1 blocks (0 days) behind] 
+2017-Dec-31 13:34:46.328069 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:46.330598 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 5 -> 6 [1 blocks (0 days) behind] 
+2017-Dec-31 13:34:46.330598 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:46.331139 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:34:48.333278 INFO    [protocol] [34.216.164.28:51376 INC] Sync data returned unknown top block: 5 -> 6 [1 blocks (0 days) behind] 
+2017-Dec-31 13:34:48.333278 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:48.335810 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 5 -> 6 [1 blocks (0 days) behind] 
+2017-Dec-31 13:34:48.335810 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:48.336345 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:34:50.338500 INFO    [protocol] [34.216.164.28:38993 INC] Sync data returned unknown top block: 5 -> 6 [1 blocks (0 days) behind] 
+2017-Dec-31 13:34:50.338500 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:50.340789 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 5 -> 6 [1 blocks (0 days) behind] 
+2017-Dec-31 13:34:50.340789 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:50.341344 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:34:52.343630 INFO    [protocol] [34.216.164.28:40918 INC] Sync data returned unknown top block: 5 -> 6 [1 blocks (0 days) behind] 
+2017-Dec-31 13:34:52.343630 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:52.345969 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 5 -> 6 [1 blocks (0 days) behind] 
+2017-Dec-31 13:34:52.345969 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:52.346514 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:34:54.348724 INFO    [protocol] [34.216.164.28:47176 INC] Sync data returned unknown top block: 5 -> 6 [1 blocks (0 days) behind] 
+2017-Dec-31 13:34:54.348724 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:54.351236 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 5 -> 6 [1 blocks (0 days) behind] 
+2017-Dec-31 13:34:54.351236 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:54.352041 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:34:56.353864 INFO    [protocol] [34.216.164.28:52809 INC] Sync data returned unknown top block: 5 -> 6 [1 blocks (0 days) behind] 
+2017-Dec-31 13:34:56.353864 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:56.356292 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 5 -> 6 [1 blocks (0 days) behind] 
+2017-Dec-31 13:34:56.356292 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:56.356678 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:34:58.358931 INFO    [protocol] [34.216.164.28:54536 INC] Sync data returned unknown top block: 5 -> 6 [1 blocks (0 days) behind] 
+2017-Dec-31 13:34:58.358931 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:58.361384 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 5 -> 6 [1 blocks (0 days) behind] 
+2017-Dec-31 13:34:58.361384 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:34:58.361918 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:35:00.364169 INFO    [protocol] [34.216.164.28:52215 INC] Sync data returned unknown top block: 5 -> 6 [1 blocks (0 days) behind] 
+2017-Dec-31 13:35:00.364169 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:35:00.366596 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 5 -> 6 [1 blocks (0 days) behind] 
+2017-Dec-31 13:35:00.366596 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:35:00.367146 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:35:02.369270 INFO    [protocol] [34.216.164.28:60687 INC] Sync data returned unknown top block: 5 -> 6 [1 blocks (0 days) behind] 
+2017-Dec-31 13:35:02.369270 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:35:02.372172 INFO    [protocol] [34.216.164.28:30805 OUT] Sync data returned unknown top block: 5 -> 6 [1 blocks (0 days) behind] 
+2017-Dec-31 13:35:02.372172 INFO    [protocol] SYNCHRONIZATION started
+2017-Dec-31 13:35:02.372693 ERROR   [protocol] [34.216.164.28:30805 OUT] Failed to handle NOTIFY_REQUEST_CHAIN. block_ids doesn't end with genesis block ID
+2017-Dec-31 13:36:11.504548 WARNING [node_server] [34.216.164.28:33621 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:36:39.547697 INFO    [node_server] Stop signal sent
+2017-Dec-31 13:36:39.547882 INFO    [node_server] Stopping NodeServer and it's0 connections...
+2017-Dec-31 13:36:39.548069 INFO    [node_server] NodeServer loop stopped
+2017-Dec-31 13:36:39.548134 INFO    [daemon] p2p net loop stopped
+2017-Dec-31 13:36:39.548193 INFO    [daemon] Stopping core rpc server...
+2017-Dec-31 13:36:39.548348 INFO    [daemon] Deinitializing p2p...
+2017-Dec-31 13:36:39.548945 INFO    [RocksDBWrapper] Closing DB.
+2017-Dec-31 13:36:39.576423 INFO    [daemon] Node stopped.
+2017-Dec-31 13:37:33.237079 INFO    [daemon] tupi v2.1.2.1251 ()
+2017-Dec-31 13:37:33.237455 INFO    [daemon] Module folder: ./tupid
+2017-Dec-31 13:37:33.237743 INFO    [RocksDBWrapper] Opening DB in /home/ubuntu/.tupi/DB
+2017-Dec-31 13:37:33.238545 INFO    [RocksDBWrapper] DB not found in /home/ubuntu/.tupi/DB. Creating new DB...
+2017-Dec-31 13:37:33.266026 INFO    [daemon] Initializing core...
+2017-Dec-31 13:37:33.299271 INFO    [daemon] Core initialized OK
+2017-Dec-31 13:37:33.299442 INFO    [daemon] Initializing p2p server...
+2017-Dec-31 13:37:34.383061 ERROR   [node_server] Failed to resolve host name 'tupiseeds.tk': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 13:37:36.762442 ERROR   [node_server] Failed to resolve host name 'tupiseeds.ml': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 13:37:37.026984 ERROR   [node_server] Failed to resolve host name 'tupiseeds.cf': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 13:37:37.210169 ERROR   [node_server] Failed to resolve host name 'tupiseeds.gq': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 13:37:37.210504 INFO    [node_server] Generated new peer ID: 10749596388648080603
+2017-Dec-31 13:37:37.210655 INFO    [node_server] Binding on 0.0.0.0:30805
+2017-Dec-31 13:37:37.210824 INFO    [node_server] Net service binded on 0.0.0.0:30805
+2017-Dec-31 13:37:37.210953 INFO    [node_server] Attempting to add IGD port mapping.
+2017-Dec-31 13:37:41.215091 INFO    [node_server] No IGD was found.
+2017-Dec-31 13:37:41.215405 INFO    [daemon] P2p server initialized OK
+2017-Dec-31 13:37:41.216128 INFO    [daemon] Starting core rpc server on address 127.0.0.1:30806
+2017-Dec-31 13:37:41.216326 INFO    [daemon] Core rpc server started ok
+2017-Dec-31 13:37:41.216468 INFO    [daemon] Starting p2p net loop...
+2017-Dec-31 13:37:41.216593 INFO    [node_server] Starting node_server
+2017-Dec-31 13:37:41.218829 INFO    [protocol] 
+2017-Dec-31 13:37:41.218829 INFO    [protocol] **********************************************************************
+2017-Dec-31 13:37:41.218829 INFO    [protocol] You are now synchronized with the network. You may now start simplewallet.
+2017-Dec-31 13:37:41.218829 INFO    [protocol] 
+2017-Dec-31 13:37:41.218829 INFO    [protocol] Please note, that the blockchain will be saved only after you quit the daemon with "exit" command or if you use "save" command.
+2017-Dec-31 13:37:41.218829 INFO    [protocol] Otherwise, you will possibly need to synchronize the blockchain again.
+2017-Dec-31 13:37:41.218829 INFO    [protocol] 
+2017-Dec-31 13:37:41.218829 INFO    [protocol] Use "help" command to see the list of available commands.
+2017-Dec-31 13:37:41.218829 INFO    [protocol] **********************************************************************
+2017-Dec-31 13:37:48.396228 WARNING [node_server] [52.41.228.175:53872 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:37:48.544471 WARNING [node_server] [52.41.228.175:35537 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:37:52.745272 WARNING [node_server] [52.41.228.175:55188 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:37:55.045144 WARNING [node_server] [34.216.164.28:60556 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 13:37:58.570104 WARNING [node_server] [34.216.164.28:36261 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 15:10:42.953121 INFO    [Core] Block 54470e4c4ad8d0ce1444652eb0e16b17193445e8ecd46971db16102c1ffb381c added to main chain. Index: 100
+2017-Dec-31 19:48:10.942338 INFO    [daemon] tupi v2.1.2.1251 ()
+2017-Dec-31 19:48:10.942608 INFO    [daemon] Module folder: ./tupid
+2017-Dec-31 19:48:10.942878 INFO    [RocksDBWrapper] Opening DB in /home/ubuntu/.tupi/DB
+2017-Dec-31 19:48:10.972204 INFO    [RocksDBWrapper] DB opened in /home/ubuntu/.tupi/DB
+2017-Dec-31 19:48:10.972419 INFO    [daemon] Initializing core...
+2017-Dec-31 19:48:10.974445 INFO    [Core] Importing blocks from blockchain storage
+2017-Dec-31 19:48:11.041353 INFO    [daemon] Core initialized OK
+2017-Dec-31 19:48:11.041482 INFO    [daemon] Initializing p2p server...
+2017-Dec-31 19:48:11.386288 ERROR   [node_server] Failed to resolve host name 'tupiseeds.tk': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 19:48:11.564289 ERROR   [node_server] Failed to resolve host name 'tupiseeds.ml': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 19:48:11.742835 ERROR   [node_server] Failed to resolve host name 'tupiseeds.cf': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 19:48:11.919437 ERROR   [node_server] Failed to resolve host name 'tupiseeds.gq': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 19:48:11.919696 INFO    [node_server] Binding on 0.0.0.0:30805
+2017-Dec-31 19:48:11.919847 INFO    [node_server] Net service binded on 0.0.0.0:30805
+2017-Dec-31 19:48:11.920002 INFO    [node_server] Attempting to add IGD port mapping.
+2017-Dec-31 19:48:15.924811 INFO    [node_server] No IGD was found.
+2017-Dec-31 19:48:15.924996 INFO    [daemon] P2p server initialized OK
+2017-Dec-31 19:48:15.925213 INFO    [daemon] Starting core rpc server on address 127.0.0.1:30806
+2017-Dec-31 19:48:15.925384 INFO    [daemon] Core rpc server started ok
+2017-Dec-31 19:48:15.925512 INFO    [daemon] Starting p2p net loop...
+2017-Dec-31 19:48:15.925586 INFO    [node_server] Starting node_server
+2017-Dec-31 19:49:14.441474 INFO    [daemon] tupi v2.1.2.1251 ()
+2017-Dec-31 19:49:14.441738 INFO    [daemon] Module folder: ./tupid
+2017-Dec-31 19:49:14.441973 INFO    [RocksDBWrapper] Opening DB in /home/ubuntu/.tupi/DB
+2017-Dec-31 19:49:14.443042 ERROR   [RocksDBWrapper] DB Error. DB can't be opened in /home/ubuntu/.tupi/DB. Error: IO error: lock /home/ubuntu/.tupi/DB/LOCK: Resource temporarily unavailable
+2017-Dec-31 19:49:14.443283 ERROR   [daemon] Exception: IO error
+2017-Dec-31 19:51:32.258692 INFO    [node_server] Stop signal sent
+2017-Dec-31 19:51:32.258907 INFO    [node_server] Stopping NodeServer and it's0 connections...
+2017-Dec-31 19:51:32.259106 INFO    [node_server] NodeServer loop stopped
+2017-Dec-31 19:51:32.259184 INFO    [daemon] p2p net loop stopped
+2017-Dec-31 19:51:32.259255 INFO    [daemon] Stopping core rpc server...
+2017-Dec-31 19:51:32.259361 INFO    [daemon] Deinitializing p2p...
+2017-Dec-31 19:51:32.260255 INFO    [RocksDBWrapper] Closing DB.
+2017-Dec-31 19:51:32.268562 INFO    [daemon] Node stopped.
+2017-Dec-31 19:51:54.246889 INFO    [daemon] tupi v2.1.2.1251 ()
+2017-Dec-31 19:51:54.247119 INFO    [daemon] Module folder: ./tupid
+2017-Dec-31 19:51:54.247461 INFO    [RocksDBWrapper] Opening DB in /home/ubuntu/.tupi/DB
+2017-Dec-31 19:51:54.248679 INFO    [RocksDBWrapper] DB not found in /home/ubuntu/.tupi/DB. Creating new DB...
+2017-Dec-31 19:51:54.280324 INFO    [daemon] Initializing core...
+2017-Dec-31 19:51:54.303310 INFO    [daemon] Core initialized OK
+2017-Dec-31 19:51:54.303456 INFO    [daemon] Initializing p2p server...
+2017-Dec-31 19:51:54.732912 ERROR   [node_server] Failed to resolve host name 'tupiseeds.tk': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 19:51:55.276617 ERROR   [node_server] Failed to resolve host name 'tupiseeds.ml': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 19:51:55.444755 ERROR   [node_server] Failed to resolve host name 'tupiseeds.cf': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 19:51:55.626070 ERROR   [node_server] Failed to resolve host name 'tupiseeds.gq': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 19:51:55.626248 INFO    [node_server] Generated new peer ID: 4478543024314296562
+2017-Dec-31 19:51:55.626344 INFO    [node_server] Binding on 0.0.0.0:30805
+2017-Dec-31 19:51:55.626450 INFO    [node_server] Net service binded on 0.0.0.0:30805
+2017-Dec-31 19:51:55.626562 INFO    [node_server] Attempting to add IGD port mapping.
+2017-Dec-31 19:51:59.631280 INFO    [node_server] No IGD was found.
+2017-Dec-31 19:51:59.631433 INFO    [daemon] P2p server initialized OK
+2017-Dec-31 19:51:59.631662 INFO    [daemon] Starting core rpc server on address 127.0.0.1:30806
+2017-Dec-31 19:51:59.631847 INFO    [daemon] Core rpc server started ok
+2017-Dec-31 19:51:59.631978 INFO    [daemon] Starting p2p net loop...
+2017-Dec-31 19:51:59.632055 INFO    [node_server] Starting node_server
+2017-Dec-31 19:51:59.635057 INFO    [protocol] 
+2017-Dec-31 19:51:59.635057 INFO    [protocol] **********************************************************************
+2017-Dec-31 19:51:59.635057 INFO    [protocol] You are now synchronized with the network. You may now start simplewallet.
+2017-Dec-31 19:51:59.635057 INFO    [protocol] 
+2017-Dec-31 19:51:59.635057 INFO    [protocol] Please note, that the blockchain will be saved only after you quit the daemon with "exit" command or if you use "save" command.
+2017-Dec-31 19:51:59.635057 INFO    [protocol] Otherwise, you will possibly need to synchronize the blockchain again.
+2017-Dec-31 19:51:59.635057 INFO    [protocol] 
+2017-Dec-31 19:51:59.635057 INFO    [protocol] Use "help" command to see the list of available commands.
+2017-Dec-31 19:51:59.635057 INFO    [protocol] **********************************************************************
+2017-Dec-31 19:52:03.642968 WARNING [node_server] [52.41.228.175:56373 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 19:52:07.649413 WARNING [node_server] [52.41.228.175:55334 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 19:52:15.662274 WARNING [node_server] [52.41.228.175:52796 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 19:52:21.671789 WARNING [node_server] [52.41.228.175:36671 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 19:52:35.694077 WARNING [node_server] [52.41.228.175:48249 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 19:52:37.697353 WARNING [node_server] [52.41.228.175:44326 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 19:52:39.700668 WARNING [node_server] [52.41.228.175:35312 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 19:52:49.716507 WARNING [node_server] [52.41.228.175:35638 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 19:52:51.719878 WARNING [node_server] [52.41.228.175:60107 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 19:52:59.732739 WARNING [node_server] [52.41.228.175:34076 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 19:53:25.773996 WARNING [node_server] [52.41.228.175:44045 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 19:53:29.780252 WARNING [node_server] [52.41.228.175:48796 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 19:53:39.796269 WARNING [node_server] [52.41.228.175:45692 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 19:53:43.802657 WARNING [node_server] [52.41.228.175:58674 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 19:53:45.805892 WARNING [node_server] [52.41.228.175:53871 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 19:53:49.812063 WARNING [node_server] [52.41.228.175:34235 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 19:54:03.834128 WARNING [node_server] [52.41.228.175:60350 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 19:54:05.837332 WARNING [node_server] [52.41.228.175:40751 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 19:54:07.840641 WARNING [node_server] [52.41.228.175:41150 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 19:54:09.844006 WARNING [node_server] [52.41.228.175:43569 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 19:54:11.847347 WARNING [node_server] [52.41.228.175:41381 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 19:54:35.879725 WARNING [node_server] [52.41.228.175:33052 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 19:54:41.887863 WARNING [node_server] [52.41.228.175:40253 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 19:54:59.331367 INFO    [daemon] tupi v2.1.2.1251 ()
+2017-Dec-31 19:54:59.331788 INFO    [daemon] Module folder: ./tupid
+2017-Dec-31 19:54:59.332063 INFO    [RocksDBWrapper] Opening DB in /home/ubuntu/.tupi/DB
+2017-Dec-31 19:54:59.332841 INFO    [RocksDBWrapper] DB not found in /home/ubuntu/.tupi/DB. Creating new DB...
+2017-Dec-31 19:54:59.362982 INFO    [daemon] Initializing core...
+2017-Dec-31 19:54:59.365025 INFO    [daemon] Core initialized OK
+2017-Dec-31 19:54:59.365234 INFO    [daemon] Initializing p2p server...
+2017-Dec-31 19:54:59.713015 ERROR   [node_server] Failed to resolve host name 'tupiseeds.tk': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 19:54:59.892188 ERROR   [node_server] Failed to resolve host name 'tupiseeds.ml': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 19:55:00.069685 ERROR   [node_server] Failed to resolve host name 'tupiseeds.cf': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 19:55:00.624039 ERROR   [node_server] Failed to resolve host name 'tupiseeds.gq': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 19:55:00.624342 INFO    [node_server] Generated new peer ID: 10334449626381099070
+2017-Dec-31 19:55:00.624455 INFO    [node_server] Binding on 0.0.0.0:30805
+2017-Dec-31 19:55:00.625086 INFO    [RocksDBWrapper] Closing DB.
+2017-Dec-31 19:55:00.675934 ERROR   [daemon] Exception: TcpListener::TcpListener, bind failed, result=98, Address already in use
+2017-Dec-31 19:55:15.845140 INFO    [node_server] Stop signal sent
+2017-Dec-31 19:55:15.845315 INFO    [node_server] Stopping NodeServer and it's0 connections...
+2017-Dec-31 19:55:15.845472 INFO    [node_server] NodeServer loop stopped
+2017-Dec-31 19:55:15.845531 INFO    [daemon] p2p net loop stopped
+2017-Dec-31 19:55:15.845586 INFO    [daemon] Stopping core rpc server...
+2017-Dec-31 19:55:15.845665 INFO    [daemon] Deinitializing p2p...
+2017-Dec-31 19:55:15.846221 INFO    [RocksDBWrapper] Closing DB.
+2017-Dec-31 19:55:15.887114 INFO    [daemon] Node stopped.
+2017-Dec-31 19:55:31.311280 INFO    [daemon] tupi v2.1.2.1251 ()
+2017-Dec-31 19:55:31.311655 INFO    [daemon] Module folder: ./tupid
+2017-Dec-31 19:55:31.312150 INFO    [RocksDBWrapper] Opening DB in /home/ubuntu/.tupi/DB
+2017-Dec-31 19:55:31.312990 INFO    [RocksDBWrapper] DB not found in /home/ubuntu/.tupi/DB. Creating new DB...
+2017-Dec-31 19:55:31.342327 INFO    [daemon] Initializing core...
+2017-Dec-31 19:55:31.344382 INFO    [daemon] Core initialized OK
+2017-Dec-31 19:55:31.344497 INFO    [daemon] Initializing p2p server...
+2017-Dec-31 19:55:31.346794 ERROR   [node_server] Failed to resolve host name 'tupiseeds.tk': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 19:55:31.347898 ERROR   [node_server] Failed to resolve host name 'tupiseeds.ml': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 19:55:31.349015 ERROR   [node_server] Failed to resolve host name 'tupiseeds.cf': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 19:55:31.350231 ERROR   [node_server] Failed to resolve host name 'tupiseeds.gq': Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2
+2017-Dec-31 19:55:31.350345 INFO    [node_server] Generated new peer ID: 8440171339530947889
+2017-Dec-31 19:55:31.350408 INFO    [node_server] Binding on 0.0.0.0:30805
+2017-Dec-31 19:55:31.350501 INFO    [node_server] Net service binded on 0.0.0.0:30805
+2017-Dec-31 19:55:31.350558 INFO    [node_server] Attempting to add IGD port mapping.
+2017-Dec-31 19:55:35.355056 INFO    [node_server] No IGD was found.
+2017-Dec-31 19:55:35.355422 INFO    [daemon] P2p server initialized OK
+2017-Dec-31 19:55:35.356166 INFO    [daemon] Starting core rpc server on address 127.0.0.1:30806
+2017-Dec-31 19:55:35.356382 INFO    [daemon] Core rpc server started ok
+2017-Dec-31 19:55:35.356545 INFO    [daemon] Starting p2p net loop...
+2017-Dec-31 19:55:35.356690 INFO    [node_server] Starting node_server
+2017-Dec-31 19:55:35.358943 INFO    [protocol] 
+2017-Dec-31 19:55:35.358943 INFO    [protocol] **********************************************************************
+2017-Dec-31 19:55:35.358943 INFO    [protocol] You are now synchronized with the network. You may now start simplewallet.
+2017-Dec-31 19:55:35.358943 INFO    [protocol] 
+2017-Dec-31 19:55:35.358943 INFO    [protocol] Please note, that the blockchain will be saved only after you quit the daemon with "exit" command or if you use "save" command.
+2017-Dec-31 19:55:35.358943 INFO    [protocol] Otherwise, you will possibly need to synchronize the blockchain again.
+2017-Dec-31 19:55:35.358943 INFO    [protocol] 
+2017-Dec-31 19:55:35.358943 INFO    [protocol] Use "help" command to see the list of available commands.
+2017-Dec-31 19:55:35.358943 INFO    [protocol] **********************************************************************
+2017-Dec-31 19:55:57.389310 WARNING [node_server] [52.41.228.175:47578 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 19:56:05.399802 WARNING [node_server] [52.41.228.175:55948 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 19:56:15.577560 WARNING [Core] Block cd7d26046f171ceb21be546ae9f9f0bf831f3bcf6bba476b39a98410593c2e8e rejected as orphaned
+2017-Dec-31 19:57:47.534471 WARNING [node_server] [52.41.228.175:45452 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 19:58:13.567768 WARNING [node_server] [52.41.228.175:48583 INC] Exception in connectionHandler: TcpConnection::read
+2017-Dec-31 19:58:38.614262 INFO    [node_server] Stop signal sent
+2017-Dec-31 19:58:38.614644 INFO    [node_server] Stopping NodeServer and it's0 connections...
+2017-Dec-31 19:58:38.614918 INFO    [node_server] NodeServer loop stopped
+2017-Dec-31 19:58:38.615062 INFO    [daemon] p2p net loop stopped
+2017-Dec-31 19:58:38.615202 INFO    [daemon] Stopping core rpc server...
+2017-Dec-31 19:58:38.615433 INFO    [daemon] Deinitializing p2p...
+2017-Dec-31 19:58:38.616362 INFO    [RocksDBWrapper] Closing DB.
+2017-Dec-31 19:58:38.653329 INFO    [daemon] Node stopped.

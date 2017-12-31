@@ -1,0 +1,18 @@
+2017-Dec-31 21:48:21.088003 INFO    [simplewallet] tupi wallet v2.1.2.1251 ()
+2017-Dec-31 21:48:40.848142 ERROR   [simplewallet] Error: wallet failed to connect to daemon (http://localhost:30968).
+2017-Dec-31 21:48:40.901222 INFO    [simplewallet] Generated new wallet: ipMoavKry1di5JBBdktDwbfPyPfqhcqvjLtLCbAh8LtgKCLYTnnFGh9eVBaqSYDLW2dcX53SLk8G3h4xZsprQVRa25Cvn2h6v
+2017-Dec-31 21:48:40.901222 INFO    [simplewallet] view key: 3fbf965c22b22dc4b85c1c2dabdbdb047a2784b9cb7b1510c5feff6072881403
+2017-Dec-31 21:48:40.901478 INFO    [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2017-Dec-31 21:49:04.497429 INFO    [simplewallet] Wallet closed
+2017-Dec-31 22:04:00.403478 INFO    [simplewallet] tupi wallet v2.1.2.1251 ()
+2017-Dec-31 22:04:08.347940 INFO    [simplewallet] Loading wallet...
+2017-Dec-31 22:04:08.395827 INFO    [simplewallet] Opened wallet: ipMoavKry1di5JBBdktDwbfPyPfqhcqvjLtLCbAh8LtgKCLYTnnFGh9eVBaqSYDLW2dcX53SLk8G3h4xZsprQVRa25Cvn2h6v
+2017-Dec-31 22:04:08.395976 INFO    [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************

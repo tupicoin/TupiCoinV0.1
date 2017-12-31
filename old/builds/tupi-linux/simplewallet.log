@@ -1,0 +1,58 @@
+2017-Dec-31 10:59:24.611967 INFO    [simplewallet] tupi wallet v2.1.2.1251 ()
+2017-Dec-31 10:59:33.005586 ERROR   [simplewallet] Error: failed to load wallet: wallet file 'wallet.wallet' is not found
+2017-Dec-31 10:59:33.005797 ERROR   [simplewallet] Failed to initialize wallet
+2017-Dec-31 11:01:53.066569 INFO    [simplewallet] tupi wallet v2.1.2.1251 ()
+2017-Dec-31 11:02:01.921952 INFO    [simplewallet] Generated new wallet: f8G8G5fQgRCT2QXcfYQLopfD3rb6ksbviHhvsaiLWsAH9XPeN9bHeiZ39a55K6ShMXN1GK8Mf6keBCTmLJUNpDGFWkf1yaQmNTi
+2017-Dec-31 11:02:01.921952 INFO    [simplewallet] view key: 140fe16e4f339ea21042ea401b836471ab6771311ca9abb584135ef657f5240a
+2017-Dec-31 11:02:01.922255 INFO    [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2017-Dec-31 11:10:52.665669 INFO    [simplewallet] tupi wallet v2.1.2.1251 ()
+2017-Dec-31 11:11:02.931755 ERROR   [simplewallet] Address file already exists: wallet.address
+2017-Dec-31 11:11:02.931937 ERROR   [simplewallet] Failed to initialize wallet
+2017-Dec-31 11:11:16.641636 INFO    [simplewallet] tupi wallet v2.1.2.1251 ()
+2017-Dec-31 11:11:23.809465 INFO    [simplewallet] Generated new wallet: f8G8G5q6upVZVRH7rLVQDiMRdL25bYeozVHExAM5UZTRWtSagq3GfE3GWsnyt3RxpR15mMfVXLgrq8Qb526VMxCC95KKWQeGQ1X
+2017-Dec-31 11:11:23.809465 INFO    [simplewallet] view key: 10b0de2b20bef9e04f78e2a294412aad649a11d60d774f28b57395177aa32f07
+2017-Dec-31 11:11:23.809683 INFO    [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2017-Dec-31 11:13:38.082610 ERROR   [simplewallet] Error: wallet failed to connect to daemon (http://localhost:30806).
+2017-Dec-31 11:18:10.293525 INFO    [simplewallet] tupi wallet v2.1.2.1251 ()
+2017-Dec-31 11:18:14.468496 ERROR   [simplewallet] Failed to initialize wallet
+2017-Dec-31 11:19:27.475237 INFO    [simplewallet] tupi wallet v2.1.2.1251 ()
+2017-Dec-31 11:19:27.475991 ERROR   [simplewallet] Address file already exists: wallet.address
+2017-Dec-31 11:19:27.476198 ERROR   [simplewallet] Failed to initialize wallet
+2017-Dec-31 11:19:27.476977 ERROR   [simplewallet] Error: wallet failed to connect to daemon (http://localhost:30806).
+2017-Dec-31 11:19:27.477297 ERROR   [simplewallet] Error: wallet failed to connect to daemon (http://localhost:30806).
+2017-Dec-31 11:19:51.423536 INFO    [simplewallet] tupi wallet v2.1.2.1251 ()
+2017-Dec-31 11:19:51.425300 ERROR   [simplewallet] Error: wallet failed to connect to daemon (http://localhost:30806).
+2017-Dec-31 11:19:51.480069 INFO    [simplewallet] Generated new wallet: f8G8G95fKd5CLSiSjX3wEXBh65Jk9begVSRNJCrxixDzCubPzWRdsU66napEKogN7V2dkMQ5EmyAnV13TdVXP5u3fQ6ZaxSHgbv
+2017-Dec-31 11:19:51.480069 INFO    [simplewallet] view key: d38fa89f2dc837403c361e4277874fdedea7814efde165590765c8128fa6090b
+2017-Dec-31 11:19:51.480288 INFO    [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2017-Dec-31 11:20:41.692027 INFO    [simplewallet] Wallet closed
+2017-Dec-31 12:51:07.945081 INFO    [simplewallet] tupi wallet v2.1.2.1251 ()
+2017-Dec-31 12:51:07.985746 ERROR   [simplewallet] Error: wallet failed to connect to daemon (http://localhost:30806).
+2017-Dec-31 12:51:08.043751 INFO    [simplewallet] Generated new wallet: f8G8G5Myby64rEWytXvq5G4VFmCxPNEEdCFxKUNmwbMe1DHxEsiwLA3ZuD3y5LtJgLNFyzCyM16Vp9zJJPUzg8tUFsLVeqg1Mxy
+2017-Dec-31 12:51:08.043751 INFO    [simplewallet] view key: ec85a9aa6fc367991a4ee91de41fe63791e981910dbcf9f10fdb03fee5430e0b
+2017-Dec-31 12:51:08.043986 INFO    [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2017-Dec-31 12:51:35.857355 INFO    [simplewallet] Wallet closed

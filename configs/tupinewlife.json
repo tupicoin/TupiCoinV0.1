@@ -1,0 +1,50 @@
+{
+    "base_coin": {
+        "name": "bytecoin",
+        "git": "https://github.com/amjuarez/bytecoin.git"
+    },
+    "core": {
+        "SEED_NODES": [
+            "tupiseeds.ga:30967",
+            "tupiseeds.gq:30967",
+            "tupiseeds.cf:30967",
+            "tupiseeds.ml:30967",
+            "tupiseeds.tk:30967"
+        ],
+        "EMISSION_SPEED_FACTOR": 18,
+        "DIFFICULTY_TARGET": 30,
+        "CRYPTONOTE_DISPLAY_DECIMAL_POINT": 8,
+        "MONEY_SUPPLY": "760000000000000000",
+        "GENESIS_BLOCK_REWARD": "387600000000000000",
+        "DEFAULT_DUST_THRESHOLD": 10000,
+        "MINIMUM_FEE": 10000,
+        "CRYPTONOTE_MINED_MONEY_UNLOCK_WINDOW": 40,
+        "CRYPTONOTE_BLOCK_GRANTED_FULL_REWARD_ZONE": 100000,
+        "MAX_TRANSACTION_SIZE_LIMIT": 100000,
+        "CRYPTONOTE_PUBLIC_ADDRESS_BASE58_PREFIX": 250,
+        "DIFFICULTY_CUT_V1": 60,
+        "DIFFICULTY_CUT_V2": 60,
+        "DIFFICULTY_CUT": 0,
+        "DIFFICULTY_LAG_V1": 15,
+        "DIFFICULTY_LAG_V2": 15,
+        "DIFFICULTY_LAG": 0,
+        "DIFFICULTY_WINDOW_V1": 2880,
+        "DIFFICULTY_WINDOW_V2": 2880,
+        "DIFFICULTY_WINDOW": 17,
+        "ZAWY_DIFFICULTY_V3": 1,
+        "ZAWY_DIFFICULTY_DIFFICULTY_BLOCK_VERSION": 3,
+        "P2P_DEFAULT_PORT": 30967,
+        "RPC_DEFAULT_PORT": 30968,
+        "BYTECOIN_NETWORK": "a8e9e37c-5a44-2823-569d-409fc92348fc",
+        "CRYPTONOTE_NAME": "tupi",
+        "DAEMON_NAME": "tupid",
+        "GENESIS_COINBASE_TX_HEX": "010a01ff00018080c4d7d784c2b00502cde222233a67449f945fb883133c832ed9a0375abaa2d6382437f225e560c25921013a2da4de51d7f3395fc4b08c1a35a389e5d5598d48bb85373c04a196e3dd1da6",
+        "CHECKPOINTS": "",
+        "MAX_BLOCK_SIZE_INITIAL": 100000
+    },
+    "extensions": [
+        "core/bytecoin.json",
+        "print-genesis-tx.json",
+        "genesis-block-reward.json"
+    ]
+}
